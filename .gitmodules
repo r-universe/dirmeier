@@ -3,3 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "datastructures"]
+	path = datastructures
+	url = https://github.com/dirmeier/datastructures
+	shallow = true
+[submodule "diffusr"]
+	path = diffusr
+	url = https://github.com/dirmeier/diffusr
+	shallow = true

@@ -1,0 +1,10 @@
+[
+  {
+    "package": "datastructures",
+    "oncran": true
+  },
+  {
+    "package": "diffusr",
+    "oncran": true
+  }
+]

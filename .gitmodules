@@ -8,8 +8,10 @@
 	url = https://github.com/dirmeier/datastructures
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "diffusr"]
 	path = diffusr
 	url = https://github.com/dirmeier/diffusr
 	shallow = true
 	registered = true
+	oncran = true

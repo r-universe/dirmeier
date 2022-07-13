@@ -6,5 +6,8 @@
   {
     "package": "diffusr",
     "oncran": true
+  },
+  {
+    "package": "netReg"
   }
 ]

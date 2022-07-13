@@ -13,3 +13,8 @@
 	url = https://github.com/dirmeier/diffusr
 	shallow = true
 	registered = true
+[submodule "netReg"]
+	path = netReg
+	url = https://github.com/dirmeier/netreg
+	shallow = true
+	registered = true
